@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @digcoders
+- I am a noobie programmer.
+-if you like my work please email me 
